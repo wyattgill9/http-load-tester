@@ -1,0 +1,4 @@
+git.akyoto.dev/go/router v0.1.4 h1:ZL5HPl4aNn4QKihf3VVs0Mm9R6ZGn2StAHGRQxjEbws=
+git.akyoto.dev/go/router v0.1.4/go.mod h1:rbHbkLJlQOafuOuvBalO3O8E0JtMFPT3zzTKX3h9T08=
+git.akyoto.dev/go/web v0.0.0-20240622114143-d91c1313942e h1:olSIHcDVg9o78BOdPFZjCDK0QPfKNEWgZhqBOjwrWg8=
+git.akyoto.dev/go/web v0.0.0-20240622114143-d91c1313942e/go.mod h1:oB/+nfWbAsBXYhV+TidUjmxdbyGpU7pODdo95bYaRVc=
